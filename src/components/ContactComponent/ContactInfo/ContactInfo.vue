@@ -12,7 +12,7 @@
             <li class="mr-md-5 mr-4" @click="opentap('https://www.instagram.com/yossefalatter/')"><font-awesome-icon class="inst" :icon="{ prefix: 'fab', iconName: 'instagram' }"/></li>
             <li class="mr-md-5 mr-4" @click="opentap('https://twitter.com/Yossef87138599')"><font-awesome-icon class="twit" :icon="{ prefix: 'fab', iconName: 'twitter' }"/></li>
             <li class="mr-md-5 mr-4" @click="opentap('https://github.com/yossefAlatter')"><font-awesome-icon class="gith" :icon="{ prefix: 'fab', iconName: 'github' }"/></li>
-            <li class=" frmon" @click="opentap('https://www.frontendmentor.io/profile/yossefAlatter')"><img src="../../../assets/frontMonter.png"/></li>
+            <li class=" frmon" @click="opentap('https://www.frontendmentor.io/profile/yossefAlatter')"><img src="./../../../assets/frontMonter.png"/></li>
         </ul>
         <!--  -->
         </div>

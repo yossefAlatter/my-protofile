@@ -1,6 +1,6 @@
 <template>
     <div>
-        <img src="..\..\..\assets\logo.jpg" class="imgo shadow" alt="user-photo">
+        <img src="./../../../assets/logo.jpg" class="imgo shadow" alt="user-photo">
     </div>
 </template>
 <script>

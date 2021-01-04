@@ -3,7 +3,7 @@
   <div class="swiper-wrapper" style="padding-bottom: 50px;">
         <div class="swiper-slide">
           <div class="card mr-2 togglee h-100 shadow jumping" style="width: 100%;background-color: white;border:none">
-      <img src="..\..\..\assets\project9.jpg" class="card-img-top" alt="project1" />
+      <img src="./../../../assets/project9.jpg" class="card-img-top" alt="project1" />
       <div class="card-body">
         <p class="card-text titlee text-center mb-2">
           <span class="mr-2 htmc">HTMl</span>
@@ -18,7 +18,7 @@
         </div>
         <div class="swiper-slide">
           <div class="card mr-2 togglee h-100 shadow jumping filter" style="width: 100%;background-color: white;border:none">
-      <img src="..\..\..\assets\project2.jpg" class="card-img-top" alt="project1" />
+      <img src="./../../../assets/project2.jpg" class="card-img-top" alt="project1" />
       <div class="card-body">
         <p class="card-text titlee text-center mb-2">
           <span class="mr-2 htmc">HTMl</span>
@@ -33,7 +33,7 @@
         </div>
         <div class="swiper-slide">
           <div class="card mr-2 togglee h-100 shadow jumping filter" style="width: 100%;background-color: white;border:none">
-      <img src="..\..\..\assets\project3.jpg" class="card-img-top" alt="project1" />
+      <img src="./../../../assets/project3.jpg" class="card-img-top" alt="project1" />
       <div class="card-body">
         <p class="card-text titlee text-center mb-2">
           <span class="mr-2 htmc">HTMl</span>
@@ -49,7 +49,7 @@
         </div>
         <div class="swiper-slide">
           <div class="card mr-2 togglee h-100 shadow jumping filter" style="width: 100%;background-color: white;border:none">
-      <img src="..\..\..\assets\project7.jpg" class="card-img-top" alt="project1" />
+      <img src="./../../../assets/project7.jpg" class="card-img-top" alt="project1" />
       <div class="card-body">
         <p class="card-text titlee text-center mb-2">
           <span class="mr-2 htmc">HTMl</span>
@@ -63,7 +63,7 @@
         </div>
         <div class="swiper-slide">
           <div class="card mr-2 togglee h-100 shadow jumping filter" style="width: 100%;background-color: white;border:none">
-      <img src="..\..\..\assets\project5.jpg" class="card-img-top" alt="project1" />
+      <img src="./../../../assets/project5.jpg" class="card-img-top" alt="project1" />
       <div class="card-body">
         <p class="card-text titlee text-center mb-2">
           <span class="mr-2 htmc">HTMl</span>
@@ -78,7 +78,7 @@
         </div>
         <div class="swiper-slide">
           <div class="card mr-2 togglee h-100 shadow jumping filter" style="width: 100%;background-color: white;border:none">
-      <img src="..\..\..\assets\project10.jpg" class="card-img-top" alt="project1" />
+      <img src="./../../../assets/project10.jpg" class="card-img-top" alt="project1" />
       <div class="card-body">
         <p class="card-text titlee text-center mb-2">
           <span class="mr-2 htmc">HTMl</span>
@@ -93,7 +93,7 @@
         </div>
         <div class="swiper-slide">
           <div class="card mr-2 togglee h-100 shadow jumping filter" style="width: 100%;background-color: white;border:none">
-      <img src="..\..\..\assets\project4.jpg" class="card-img-top" alt="project1" />
+      <img src="./../../../assets/project4.jpg" class="card-img-top" alt="project1" />
       <div class="card-body">
         <p class="card-text titlee text-center mb-2">
           <span class="mr-2 htmc">HTMl</span>
@@ -107,7 +107,7 @@
         </div>
         <div class="swiper-slide">
           <div class="card mr-2 togglee h-100 shadow jumping filter" style="width: 100%;background-color: white;border:none">
-      <img src="..\..\..\assets\project12.jpg" class="card-img-top" alt="project1" />
+      <img src="./../../../assets/project12.jpg" class="card-img-top" alt="project1" />
       <div class="card-body">
         <p class="card-text titlee text-center mb-2">
           <span class="mr-2 htmc">HTMl</span>
@@ -122,7 +122,7 @@
         </div>
         <div class="swiper-slide">
           <div class="card mr-2 togglee h-100 shadow jumping filter" style="width: 100%;background-color: white;border:none">
-      <img src="..\..\..\assets\project1.jpg" class="card-img-top" alt="project1" />
+      <img src="./../../../assets/project1.jpg" class="card-img-top" alt="project1" />
       <div class="card-body">
         <p class="card-text titlee text-center filter">
           <span class="mr-2 htmc">HTMl</span>
@@ -137,7 +137,7 @@
         </div>
         <div class="swiper-slide">
           <div class="card mr-2 togglee h-100 shadow jumping filter" style="width: 100%;background-color: white;border:none">
-      <img src="..\..\..\assets\project6.jpg" class="card-img-top" alt="project1" />
+      <img src="./../../../assets/project6.jpg" class="card-img-top" alt="project1" />
       <div class="card-body">
         <p class="card-text titlee text-center">
           <span class="mr-2 htmc">HTMl</span>
@@ -152,7 +152,7 @@
         </div>
         <div class="swiper-slide">
           <div class="card mr-2 togglee h-100 shadow jumping filter" style="width: 100%;background-color: white;border:none">
-      <img src="..\..\..\assets\project11.jpg" class="card-img-top" alt="project1" />
+      <img src="./../../../assets/project11.jpg" class="card-img-top" alt="project1" />
       <div class="card-body">
         <p class="card-text titlee text-center">
           <span class="mr-2 htmc">HTMl</span>
@@ -167,7 +167,7 @@
         </div>
         <div class="swiper-slide">
           <div class="card mr-2 togglee h-100 shadow jumping filter" style="width: 100%;background-color: white;border:none">
-      <img src="..\..\..\assets\project8.jpg" class="card-img-top" alt="project1" />
+      <img src="./../../../assets/project8.jpg" class="card-img-top" alt="project1" />
       <div class="card-body">
         <p class="card-text titlee text-center">
           <span class="mr-2 htmc">HTMl</span>
