@@ -31,7 +31,7 @@
     <div class="card mr-2 togglee h-100" style="width: 13rem;">
       <div class="bbo">
         <p class="bbo-info">This is Chat app css illustration</p>
-        <a class="btn btn-primary bto shadow" id="bto-tog" @click="opentap('https://mad-details-challenge.vercel.app/')">Visit</a>
+        <a class="btn btn-primary bto shadow" id="bto-tog" @click="opentap('https://chatapp-css-illustration.vercel.app/')">Visit</a>
       </div>
       <img src="./../../../assets/project2.jpg" class="card-img-top" alt="project2" />
       <div class="card-body">

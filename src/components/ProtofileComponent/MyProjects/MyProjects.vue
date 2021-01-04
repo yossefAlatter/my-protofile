@@ -25,8 +25,8 @@
           <span class="mr-2 cssc">CSS</span>
         </p>
         <h6 class="text-center mb-3">ChatApp Css Illustration</h6>
-        <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://mad-details-challenge.vercel.app/')">Visit Site</button></div>
-        <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://github.com/yossefAlatter/mad-details')">View Code</button></div>
+        <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://chatapp-css-illustration.vercel.app/')">Visit Site</button></div>
+        <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://github.com/yossefAlatter/chatapp-css-illustration')">View Code</button></div>
 
       </div>
     </div>
