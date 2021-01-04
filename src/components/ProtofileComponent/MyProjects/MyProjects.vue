@@ -11,7 +11,7 @@
           <span class="mr-2 jsc">JS</span>
         </p>
         <h6 class="text-center mb-3">Insure Landing Page</h6>
-        <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://insure-landing-page-tawny.vercel.app/')">Visit Site</button></div>
+        <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://insure-landing-page-gray-two.vercel.app/')">Visit Site</button></div>
         <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://github.com/yossefAlatter/insure-landing-page')">View Code</button></div>
       </div>
     </div>
@@ -41,8 +41,8 @@
           <span class="mr-2 jsc">JS</span>
         </p>
         <h6 class="text-center mb-3">Social media dashboard</h6>
-        <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://challenge-1-green.vercel.app/')">Visit Site</button></div>
-        <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://github.com/yossefAlatter/challenge-1')">View Code</button></div>
+        <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://social-media-dashboard-with-theme-switcher-gold-seven.vercel.app/')">Visit Site</button></div>
+        <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://github.com/yossefAlatter/social-media-dashboard-with-theme-switcher')">View Code</button></div>
 
       </div>
     </div>
@@ -56,8 +56,8 @@
           <span class="mr-2 cssc">CSS</span>
         </p>
         <h6 class="text-center mb-3">Social proof section</h6>
-        <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://very-nice-spaghetti.vercel.app/')">Visit Site</button></div>
-        <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://github.com/yossefAlatter/very-nice-Spaghetti')">View Code</button></div>
+        <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://social-proof-section-six-phi.vercel.app/')">Visit Site</button></div>
+        <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://github.com/yossefAlatter/social-proof-section')">View Code</button></div>
       </div>
     </div>
         </div>
@@ -71,8 +71,8 @@
           <span class="mr-2 jsc">JS</span>
         </p>
         <h6 class="text-center mb-3">Coding bootcamp testimonials slider</h6>
-        <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://nice-position-using.vercel.app/')">Visit Site</button></div>
-        <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://github.com/yossefAlatter/nice-position-using')">View Code</button></div>
+        <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://coding-bootcamp-testimonals-slider.vercel.app/')">Visit Site</button></div>
+        <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://github.com/yossefAlatter/coding-bootcamp-testimonals-slider')">View Code</button></div>
       </div>
     </div>
         </div>
@@ -86,7 +86,7 @@
           <span class="mr-2 jsc">JS</span>
         </p>
         <h6 class="text-center mb-3">Static Job Listings</h6>
-        <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://static-jobs.vercel.app/')">Visit Site</button></div>
+        <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://static-jobs-six.vercel.app/')">Visit Site</button></div>
         <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://github.com/yossefAlatter/static-jobs')">View Code</button></div>
       </div>
     </div>
@@ -100,7 +100,7 @@
           <span class="mr-2 cssc">CSS</span>
         </p>
         <h6 class="text-center mb-3">Clipboard landing page</h6>
-        <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://clipboard-landing-page-master-rho.vercel.app/')">Visit Site</button></div>
+        <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://clipboard-landing-page-master-six.vercel.app/')">Visit Site</button></div>
         <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://github.com/yossefAlatter/clipboard-landing-page-master')">View Code</button></div>
       </div>
     </div>
@@ -115,7 +115,7 @@
           <span class="mr-2 jsc">JS</span>
         </p>
         <h6 class="text-center mb-3">Easybank Landing Page</h6>
-        <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://easybank-landing-bage.vercel.app/')">Visit Site</button></div>
+        <div class="mb-2"><button class="btn  w-100 bto-tog shadow" @click="opentapo('https://easybank-landing-bage-six.vercel.app/')">Visit Site</button></div>
         <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://github.com/yossefAlatter/easybank-landing-bage')">View Code</button></div>
       </div>
     </div>
@@ -130,8 +130,8 @@
           <span class="mr-2 jsc">JS</span>
         </p>
         <h6 class="text-center mb-3">Article preview component</h6>
-        <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://good-playing-with-media.vercel.app/')">Visit Site</button></div>
-        <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://github.com/yossefAlatter/good-playing-with-media')">View Code</button></div>
+        <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://article-preview-component-lac-chi.vercel.app/')">Visit Site</button></div>
+        <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://github.com/yossefAlatter/article-preview-component')">View Code</button></div>
       </div>
     </div>
         </div>
@@ -145,7 +145,7 @@
           <span class="mr-2 jsc">JS</span>
         </p>
         <h6 class="text-center mb-3">Room homepage</h6>
-        <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://room-homebage-master.vercel.app/')">Visit Site</button></div>
+        <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://room-homebage-master-one.vercel.app/')">Visit Site</button></div>
         <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://github.com/yossefAlatter/room-homebage-master')">View Code</button></div>
       </div>
     </div>
@@ -160,7 +160,7 @@
           <span class="mr-2 jsc">JS</span>
         </p>
         <h6 class="text-center mb-3">Faq Accordion Card</h6>
-        <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://faq-accordion-card-pi.vercel.app/')">Visit Site</button></div>
+        <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://faq-accordion-card-flame.vercel.app/')">Visit Site</button></div>
         <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://github.com/yossefAlatter/faq-accordion-card')">View Code</button></div>
       </div>
     </div>
@@ -175,8 +175,8 @@
           <span class="mr-2 jsc">JS</span>
         </p>
         <h6 class="text-center mb-3">Testimonials grid section</h6>
-        <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://using-sass-js.vercel.app/')">Visit Site</button></div>
-        <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://github.com/yossefAlatter/using-sass-js/')">View Code</button></div>
+        <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://testimonials-grid-section-main-lake.vercel.app/')">Visit Site</button></div>
+        <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://github.com/yossefAlatter/testimonials-grid-section-main')">View Code</button></div>
       </div>
     </div>
         </div>
@@ -191,7 +191,7 @@
           <span class="mr-2 jsc">API</span>
         </p>
         <h6 class="text-center mb-3">IP Address Tracker</h6>
-        <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://ip-address-tracker-0.vercel.app/')">Visit Site</button></div>
+        <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://ip-address-tracker-zeta.vercel.app/')">Visit Site</button></div>
         <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://github.com/yossefAlatter/Ip-address-tracker')">View Code</button></div>
       </div>
     </div>
@@ -237,7 +237,7 @@
           <span class="mr-2 jsc">JS</span>
         </p>
         <h6 class="text-center mb-3">Intro Component With Signup Form</h6>
-        <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://intro-component-with-signup-form-master-ashy.vercel.app/')">Visit Site</button></div>
+        <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://intro-component-with-signup-form-master-coral.vercel.app/')">Visit Site</button></div>
         <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://github.com/yossefAlatter/intro-component-with-signup-form-master')">View Code</button></div>
       </div>
     </div>
@@ -252,7 +252,7 @@
           <span class="mr-2 jsc">JS</span>
         </p>
         <h6 class="text-center mb-3">Rock , Paper and Scissors Game</h6>
-        <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://rock-paper-scissors-master-1.vercel.app/')">Visit Site</button></div>
+        <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://rock-paper-scissors-master-lyart.vercel.app/')">Visit Site</button></div>
         <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://github.com/yossefAlatter/rock-paper-scissors-master')">View Code</button></div>
       </div>
     </div>
@@ -267,7 +267,7 @@
           <span class="mr-2 jsc">JS</span>
         </p>
         <h6 class="text-center mb-3">Manage Landing Page</h6>
-        <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://manage-landing-page-master-three.vercel.app/')">Visit Site</button></div>
+        <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://manage-landing-page-master-black-nu.vercel.app/')">Visit Site</button></div>
         <div class="mb-2"><button class="btn w-100 bto-tog shadow" @click="opentapo('https://github.com/yossefAlatter/manage-landing-page-master')">View Code</button></div>
       </div>
     </div>
