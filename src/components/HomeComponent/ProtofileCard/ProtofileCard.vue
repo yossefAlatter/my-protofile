@@ -17,7 +17,7 @@
         <p class="bbo-info">Article preview component</p>
         <button class="btn btn-primary bto shadow" id="bto-tog" @click="opentap('https://good-playing-with-media.vercel.app/')">Visit</button>
       </div>
-      <img src="..\..\..\assets\project1.jpg" class="card-img-top" alt="project1" />
+      <img src="./../../../assets/project1.jpg" class="card-img-top" alt="project1" />
       <div class="card-body">
         <p class="card-text titlee text-left">
           <span class="mr-2 htmc">HTMl</span>
@@ -33,7 +33,7 @@
         <p class="bbo-info">This is Chat app css illustration</p>
         <a class="btn btn-primary bto shadow" id="bto-tog" @click="opentap('https://mad-details-challenge.vercel.app/')">Visit</a>
       </div>
-      <img src="..\..\..\assets\project2.jpg" class="card-img-top" alt="project2" />
+      <img src="./../../../assets/project2.jpg" class="card-img-top" alt="project2" />
       <div class="card-body">
         <p class="card-text titlee text-left">
           <span class="mr-2 htmc">HTMl</span>
@@ -48,7 +48,7 @@
         <p class="bbo-info">Social media dashboard with theme switcher</p>
         <button class="btn btn-primary bto shadow" id="bto-tog" @click="opentap('https://challenge-1-green.vercel.app/')">Visit</button>
       </div>
-      <img src="..\..\..\assets\project3.jpg" class="card-img-top" alt="project2" />
+      <img src="./../../../assets/project3.jpg" class="card-img-top" alt="project2" />
       <div class="card-body">
         <p class="card-text titlee text-left">
           <span class="mr-2 htmc">HTMl</span>
