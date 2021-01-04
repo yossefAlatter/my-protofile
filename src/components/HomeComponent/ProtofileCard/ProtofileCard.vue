@@ -2,7 +2,7 @@
   <div class="card d-flex flex-lg-row flex-column p-3 shadow coko">
     <div class="line"></div>
     <div class="card-body text-left w-25 hehe px-3 pt-2 pb-2">
-      <h5 class="card-title bone" id="protofilehead">Protofile</h5>
+      <h5 class="card-title bone" id="protofilehead">Portfolio</h5>
       <p class="card-text hhee">
         I had made some responsive webpage with nice desgin ..... i will happy if you
         see them
