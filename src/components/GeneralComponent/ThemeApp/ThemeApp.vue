@@ -167,7 +167,7 @@ export default {
       "--progressColor",
       "white"
     );
-    }else{
+    }else if(localStorage.getItem('dark') == 1){
        document.documentElement.style.setProperty(
       "--backgroundColor",
       " rgb(248,250,247)"

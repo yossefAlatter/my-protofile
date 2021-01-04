@@ -3,7 +3,7 @@
         <div class="pt-3 pl-3">
         <div class="squarooo">
             <div class="mystar">
-       <font-awesome-icon class="staroo" :icon="{ prefix: 'fas', iconName: 'star' }" />
+       <font-awesome-icon class="staroo" :icon="{ prefix: 'fas', iconName: 'bars' }" />
     </div>
         </div>
     </div>
@@ -11,12 +11,12 @@
 </template>
 <script>
 import { library } from "@fortawesome/fontawesome-svg-core";
-import { faStar } from "@fortawesome/free-solid-svg-icons";
+import { faBars } from "@fortawesome/free-solid-svg-icons";
 import { faHome } from "@fortawesome/free-solid-svg-icons";
 import { faUser } from "@fortawesome/free-solid-svg-icons";
 import { faEye } from "@fortawesome/free-solid-svg-icons";
 import { faPhone } from "@fortawesome/free-solid-svg-icons";
-library.add(faStar);
+library.add(faBars);
 library.add(faHome);
 library.add(faUser);
 library.add(faEye);

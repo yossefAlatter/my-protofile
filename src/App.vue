@@ -111,6 +111,9 @@ export default {
 </script>
 
 <style lang="scss">
+body{
+  font-family: 'Ubuntu', sans-serif;
+}
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;

@@ -9,12 +9,12 @@
             <div
               class="progress-bar progress-bar-striped progress-bar-animated bg-danger"
               role="progressbar"
-              style="width: 50%;"
-              aria-valuenow="50"
+              style="width: 100%;"
+              aria-valuenow="100"
               aria-valuemin="0"
               aria-valuemax="100"
             >
-              50%
+
             </div>
           </div>
         </li>
@@ -24,12 +24,11 @@
             <div
               class="progress-bar progress-bar-striped progress-bar-animated bg-info"
               role="progressbar"
-              style="width: 60%;"
-              aria-valuenow="60"
+              style="width: 100%;"
+              aria-valuenow="100"
               aria-valuemin="0"
               aria-valuemax="100"
             >
-              60%
             </div>
           </div>
         </li>
@@ -39,12 +38,11 @@
             <div
               class="progress-bar progress-bar-striped progress-bar-animated bg-warning"
               role="progressbar"
-              style="width: 40%;"
-              aria-valuenow="40"
+              style="width: 100%;"
+              aria-valuenow="100"
               aria-valuemin="0"
               aria-valuemax="100"
             >
-              40%
             </div>
           </div>
         </li>
@@ -54,12 +52,11 @@
             <div
               class="progress-bar progress-bar-striped progress-bar-animated "
               role="progressbar"
-              style="width: 20%;"
-              aria-valuenow="20"
+              style="width: 100%;"
+              aria-valuenow="100"
               aria-valuemin="0"
               aria-valuemax="100"
             >
-              20%
             </div>
           </div>
         </li>
@@ -69,12 +66,11 @@
             <div
               class="progress-bar progress-bar-striped progress-bar-animated bg-boot"
               role="progressbar"
-              style="width: 35%;"
-              aria-valuenow="35"
+              style="width: 100%;"
+              aria-valuenow="100"
               aria-valuemin="0"
               aria-valuemax="100"
             >
-              35%
             </div>
           </div>
         </li>
@@ -84,12 +80,11 @@
             <div
               class="progress-bar progress-bar-striped progress-bar-animated bg-sass"
               role="progressbar"
-              style="width: 45%;"
-              aria-valuenow="45"
+              style="width: 100%;"
+              aria-valuenow="100"
               aria-valuemin="0"
               aria-valuemax="100"
             >
-              45%
             </div>
           </div>
         </li>
@@ -99,12 +94,11 @@
             <div
               class="progress-bar progress-bar-striped progress-bar-animated bg-success"
               role="progressbar"
-              style="width: 20%;"
-              aria-valuenow="20"
+              style="width: 100%;"
+              aria-valuenow="100"
               aria-valuemin="0"
               aria-valuemax="100"
             >
-              20%
             </div>
           </div>
         </li>

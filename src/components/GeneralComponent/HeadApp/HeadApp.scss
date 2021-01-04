@@ -45,13 +45,13 @@
     from {width:100%;visibility: visible;opacity:1;}
     to {width: 0;visibility: hidden;opacity:0;}
   }
-  @keyframes rounding {
-    from {
-    }
-    to {
-      transform: rotate(360deg);
-    }
-  }
+  // @keyframes rounding {
+  //   from {
+  //   }
+  //   to {
+  //     transform: rotate(360deg);
+  //   }
+  // }
   .navo{
     border-radius: 10px;
     position: relative;
