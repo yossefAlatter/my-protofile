@@ -67,14 +67,14 @@ export default {
   .bemm{
        height: 540.400px;
   }
-  .jumping {
-    &:hover {
-      -webkit-animation: jump 1s ease 0s 1 normal;
-      -moz-animation: jump 1s ease 0s 1 normal;
-      -ms-animation: jump 1s ease 0s 1 normal;
-      animation: jump 1s ease 0s 1 normal;
-    }
-  }
+  // .jumping {
+  //   &:hover {
+  //     -webkit-animation: jump 1s ease 0s 1 normal;
+  //     -moz-animation: jump 1s ease 0s 1 normal;
+  //     -ms-animation: jump 1s ease 0s 1 normal;
+  //     animation: jump 1s ease 0s 1 normal;
+  //   }
+  // }
   @-webkit-keyframes jump {
     0% {
       -webkit-transform: translateY(0);
