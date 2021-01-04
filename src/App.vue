@@ -44,7 +44,7 @@
                         class="boco"
                         :icon="{ prefix: 'fas', iconName: 'eye' }"
                       />
-                      <p>PROTOFILE</p>
+                      <p>PORTFOLIO</p>
                     </div>
                   </router-link>
                   <router-link to="/contact" class="ggg" tag="li">
