@@ -14,10 +14,10 @@
     <div class="hgho">
     <div class="card mr-2 togglee h-100" style="width: 13rem;">
       <div class="bbo">
-        <p class="bbo-info">Article preview component</p>
-        <button class="btn btn-primary bto shadow" id="bto-tog" @click="opentap('https://good-playing-with-media.vercel.app/')">Visit</button>
+        <p class="bbo-info">Rock , Paper and Scissors Game</p>
+        <button class="btn btn-primary bto shadow" id="bto-tog" @click="opentap('https://rock-paper-scissors-master-lyart.vercel.app/')">Visit</button>
       </div>
-      <img src="./../../../assets/project1.jpg" class="card-img-top" alt="project1" />
+      <img src="./../../../assets/project17.jpg" class="card-img-top" alt="project1" />
       <div class="card-body">
         <p class="card-text titlee text-left">
           <span class="mr-2 htmc">HTMl</span>
@@ -30,14 +30,15 @@
     <div class="hgho">
     <div class="card mr-2 togglee h-100" style="width: 13rem;">
       <div class="bbo">
-        <p class="bbo-info">This is Chat app css illustration</p>
-        <a class="btn btn-primary bto shadow" id="bto-tog" @click="opentap('https://chatapp-css-illustration.vercel.app/')">Visit</a>
+        <p class="bbo-info">Where in the world</p>
+        <a class="btn btn-primary bto shadow" id="bto-tog" @click="opentap('https://rest-countries-api-with-color-theme-switcher-master-rho.vercel.app/#')">Visit</a>
       </div>
-      <img src="./../../../assets/project2.jpg" class="card-img-top" alt="project2" />
+      <img src="./../../../assets/project15.jpg" class="card-img-top" alt="project2" />
       <div class="card-body">
         <p class="card-text titlee text-left">
           <span class="mr-2 htmc">HTMl</span>
           <span class="mr-2 cssc">CSS</span>
+          
         </p>
       </div>
     </div>
@@ -45,10 +46,10 @@
     <div class="hgho">
     <div class="card togglee h-100" style="width: 13rem;">
       <div class="bbo">
-        <p class="bbo-info">Social media dashboard with theme switcher</p>
-        <button class="btn btn-primary bto shadow" id="bto-tog" @click="opentap('https://challenge-1-green.vercel.app/')">Visit</button>
+        <p class="bbo-info">Todo App</p>
+        <button class="btn btn-primary bto shadow" id="bto-tog" @click="opentap('https://todo-app-lake.vercel.app/')">Visit</button>
       </div>
-      <img src="./../../../assets/project3.jpg" class="card-img-top" alt="project2" />
+      <img src="./../../../assets/project14.jpg" class="card-img-top" alt="project2" />
       <div class="card-body">
         <p class="card-text titlee text-left">
           <span class="mr-2 htmc">HTMl</span>
